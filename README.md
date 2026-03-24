@@ -1,4 +1,4 @@
- HEAD
+
 # Weather Prediction Dashboard
 
 Ứng dụng web hiển thị dự đoán thời tiết sử dụng Flask backend và Chart.js frontend.
